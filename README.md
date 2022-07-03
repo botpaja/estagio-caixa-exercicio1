@@ -1,4 +1,4 @@
-# estagio-caixa-exercicio1
+# estagio-caixa-exercicio 1
 
 Classes e Objetos
 1) Crie um novo projeto. Comece criando quatro classes que fazem parte de um sistema
